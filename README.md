@@ -3,8 +3,8 @@
 #### 介绍
 自用直播源
 
-#### 软件架构
-软件架构说明
+#### 直播源地址
+https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/tv/main/itvlist.txt
 
 
 #### 安装教程
