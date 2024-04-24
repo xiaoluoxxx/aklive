@@ -4,8 +4,8 @@
 自用直播源
 
 #### 直播源地址
-https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/tv/main/itvlist.txt
-
+1. https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/aklive/master/jx_cn.txt
+https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/aklive/master/jx_cn.m3u8
 
 #### 安装教程
 
