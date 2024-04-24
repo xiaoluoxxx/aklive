@@ -5,7 +5,7 @@
 
 #### 直播源地址
 1. https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/aklive/master/jx_cn.txt
-https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/aklive/master/jx_cn.m3u8
+https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/aklive/master/jx_cn.m3u
 
 #### 安装教程
 
